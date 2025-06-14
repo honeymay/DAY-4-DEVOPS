@@ -47,7 +47,7 @@ app-hosting appid guestshell
 end
 
 UNANGTELNET:  guestshell enable
-2NDtELNET:    guestshell run python
+2NDtELNET:    guestshell run python3
 THIRDTELNET:  guestshell run bash
 
 
